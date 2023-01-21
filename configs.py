@@ -9,7 +9,7 @@ class Config(object):
     API_HASH = os.getenv("API_HASH", "cb7098aa919c29da3e5f9af0f9086dd7")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5986560591:AAHxYaSMtasIVXABOxWEzaOAey6UTYa-Am0")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "movie_search10_bot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOMYBu4KejGalocaMDQJuRaHjrMa3PwTx53yUPJLblWpXaT6AFk5vJf7_GN37KF5-tLTCJKUISFhgF0N2hiRVsT-9Kai1eZ8_oJd1PJTLchwvg4ysH49lA8A3xgaLbeHdVlMZAI4Q51ywTMt3scfKkiwlpJo_iFBc1FkTfz6r0rPGTWSFCAp8N89pOk-P2YBUMtVmr5EGHYkUQCrSyNNyhtgunevay_QqYZwYem_BcCZQRViH1RS4yveEzEX0mAZAoJq0ubkFIkVaOzvUQjzyHfDqfaRec3o6kM8uYd0LKsQoy8zs-BlOq0iAmc26wnJkQxJgGqb-YKKWPzegjtxw-s9PdT8=")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOIQBuxfnpM5U1F86fVrLtmAzPWHBhWG8wBwquhGD5OwIKWpiy4h85twjdaQ_w_T1Ri1TZqV87YKjxWaFeAgjsFj7A8dsvLZw-ikPSun8VcjNkV6ychJJzM18LzDNkmqVTzVCZZKXxEya62ciwHkOFHuL16GxVDCdcNlNh30gfXMPmwt-_GzgArYmlYx3i9hTmNmU6lqHG-fHPHexuVtYxZxibLNHnQ_yKZDVwXXG3U-1qCJJWKFa3yX3zR9qm3LGaAP2do9WBIFj5-zp1bjj7kvtuU9JcaFcB8fPPqOfssa0Yj078C9eB6X9RrqbSIQMuzvgwEOkaq2vB8iklc51uK_xq-w=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001575849076")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "movie_search10_bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5183104181"))
