@@ -5,14 +5,14 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "23098568"))
-    API_HASH = os.getenv("API_HASH", "cb7098aa919c29da3e5f9af0f9086dd7")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5986560591:AAHxYaSMtasIVXABOxWEzaOAey6UTYa-Am0")
+    API_ID = int(os.getenv("API_ID", "24524034"))
+    API_HASH = os.getenv("API_HASH", "2576e0b5c6675d1728f71e8241899a9e")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "6065946828:AAHU81t4ax63OI9R91gbSrvNArx0COhqC2I")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "movie_search10_bot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOHIBuwb_bg1QkpAMYnaNniSgkWVXRLXu3sYGkfrRkG4JQd2KkBwD61SqigXSxqXJO9N4sFX02xw1mitSjhqbIdYQIMXbIWIrdqIRVfBZTu626HBlUyVzCAv6r37ItVndM7GFQUVQdQI3a_sfgFCW6MbspQiaNrqKWj67p_c4a4BM8imaLyzGzLeAYFigY6E7P8-OQsDV05GOd0HxQIEAix6-uMDzp5DYA1G0-VLkS1dhoAYnADJsypt1Tc6hRJMGMIHcCSmI6xXPSYxp2TBIdtSnIlQ5gaWyRIYacahbPk7bKcM5ZayazeQLSG1hJuaUHC-rg8GS9sY_VCIdmrJbNLgLtvs=")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001575849076")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "movie_search10_bot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "5183104181"))
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001239294555")) 
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "Mdisk_Movie_Search2_bot")
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "5617435523"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "botSupport")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "database")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME", "data")
@@ -29,15 +29,15 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
 
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
-    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001738397533")
+    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001817070575")
     DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://shok123:shok123@cluster0.yxyorfu.mongodb.net/?retryWrites=true&w=majority")
-    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001643135306"))
+    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001732747890"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
-    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "all_language_movies11")
+    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "MG_all_movie_links")
     FORCE_SUB = os.getenv("FORCE_SUB", "True")
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 180))
-    MDISK_API = os.getenv("MDISK_API", "Fk8c0PgafJQvaD9tNqSj")
+    MDISK_API = os.getenv("MDISK_API", "1nvuBwja82t0iRV7wx6M")
     VERIFIED_TIME  = int(os.getenv("VERIFIED_TIME", "31"))
     ABOUT_BOT_TEXT = os.getenv("ABOUT_TEXT", """I ᴏɴʟʏ ꜱʜᴀʀᴇ ᴛʜᴇ ᴘᴏꜱᴛ ꜰʀᴏᴍ ᴘᴇᴏᴘʟᴇ'ꜱ ᴄʜᴀɴɴᴇʟ! 
 
@@ -54,7 +54,7 @@ i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅ
 
 ᴛᴇʀᴀ ʙᴏx - ᴀɢᴀʀ ᴀᴘᴘᴋᴏ ɴᴀʜɪ ᴘᴀᴛᴀ ᴋɪ ᴛᴇʀᴀʙᴏx sᴇ ᴍᴏᴠɪᴇs ᴋᴀɪsᴇ ᴅᴇᴋʜᴇ ᴛᴏ ɴɪᴄʜᴇ ᴅɪʏᴇ ɢᴀʏᴇ ᴛᴇʀᴀ ʙᴏx ʙᴜᴛᴛᴏɴ ᴘᴀʀ ᴄʟɪᴄᴋ ᴋᴀʀᴇ
 
-ʀᴇɢᴀʀᴅs - @all_language_movies11"""
+ʀᴇɢᴀʀᴅs - @MG_all_movie_links"""
     ABOUT_MDISK_TEXT = """
 𝗠𝗱𝗶𝘀𝗸 𝗸𝗶 𝗹𝗶𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
 वीडियो प्ले करने में कोई प्रोब्लम अ रही हो तो Mx Player App डाउनलोड करले😊👍
